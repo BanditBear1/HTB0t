@@ -1,0 +1,1540 @@
+,Trend Direction,Start Date,End Date
+0,No Trend,02 Jan 1980,29 Jan 1980
+1,Bullish,29 Jan 1980,19 Feb 1980
+2,Bearish,19 Feb 1980,20 Feb 1980
+3,Bullish,20 Feb 1980,21 Feb 1980
+4,Bearish,21 Feb 1980,17 Mar 1980
+5,No Trend,17 Mar 1980,18 Mar 1980
+6,Bearish,18 Mar 1980,24 Mar 1980
+7,No Trend,24 Mar 1980,27 Mar 1980
+8,Bearish,27 Mar 1980,09 Apr 1980
+9,Bullish,09 Apr 1980,17 Apr 1980
+10,Bearish,17 Apr 1980,23 Apr 1980
+11,Bullish,23 Apr 1980,30 May 1980
+12,No Trend,30 May 1980,02 Jun 1980
+13,Bullish,02 Jun 1980,11 Jun 1980
+14,No Trend,11 Jun 1980,12 Jun 1980
+15,Bullish,12 Jun 1980,18 Jun 1980
+16,No Trend,18 Jun 1980,19 Jun 1980
+17,Bullish,19 Jun 1980,21 Jul 1980
+18,No Trend,21 Jul 1980,22 Jul 1980
+19,Bullish,22 Jul 1980,05 Aug 1980
+20,Bearish,05 Aug 1980,06 Aug 1980
+21,Bullish,06 Aug 1980,28 Aug 1980
+22,Bearish,28 Aug 1980,03 Sep 1980
+23,Bullish,03 Sep 1980,09 Sep 1980
+24,Bearish,09 Sep 1980,10 Sep 1980
+25,Bullish,10 Sep 1980,29 Sep 1980
+26,Bearish,29 Sep 1980,03 Oct 1980
+27,Bullish,03 Oct 1980,23 Oct 1980
+28,Bearish,23 Oct 1980,10 Nov 1980
+29,Bullish,10 Nov 1980,20 Nov 1980
+30,No Trend,20 Nov 1980,21 Nov 1980
+31,Bullish,21 Nov 1980,26 Nov 1980
+32,No Trend,26 Nov 1980,01 Dec 1980
+33,Bullish,01 Dec 1980,03 Dec 1980
+34,Bearish,03 Dec 1980,10 Dec 1980
+35,No Trend,10 Dec 1980,12 Dec 1980
+36,Bearish,12 Dec 1980,19 Dec 1980
+37,Bullish,19 Dec 1980,02 Jan 1981
+38,No Trend,02 Jan 1981,07 Jan 1981
+39,Bullish,07 Jan 1981,08 Jan 1981
+40,Bearish,08 Jan 1981,23 Jan 1981
+41,No Trend,23 Jan 1981,27 Jan 1981
+42,Bearish,27 Jan 1981,26 Feb 1981
+43,Bullish,26 Feb 1981,07 Apr 1981
+44,Bearish,07 Apr 1981,20 Apr 1981
+45,Bullish,20 Apr 1981,22 Apr 1981
+46,Bearish,22 Apr 1981,24 Apr 1981
+47,Bullish,24 Apr 1981,29 Apr 1981
+48,Bearish,29 Apr 1981,18 May 1981
+49,Bullish,18 May 1981,22 May 1981
+50,Bearish,22 May 1981,26 May 1981
+51,Bullish,26 May 1981,02 Jun 1981
+52,Bearish,02 Jun 1981,10 Jun 1981
+53,Bullish,10 Jun 1981,18 Jun 1981
+54,Bearish,18 Jun 1981,23 Jun 1981
+55,Bullish,23 Jun 1981,29 Jun 1981
+56,Bearish,29 Jun 1981,16 Jul 1981
+57,Bullish,16 Jul 1981,20 Jul 1981
+58,Bearish,20 Jul 1981,30 Jul 1981
+59,Bullish,30 Jul 1981,11 Aug 1981
+60,No Trend,11 Aug 1981,12 Aug 1981
+61,Bullish,12 Aug 1981,18 Aug 1981
+62,Bearish,18 Aug 1981,28 Aug 1981
+63,No Trend,28 Aug 1981,11 Sep 1981
+64,Bearish,11 Sep 1981,02 Oct 1981
+65,Bullish,02 Oct 1981,19 Oct 1981
+66,Bearish,19 Oct 1981,20 Oct 1981
+67,Bullish,20 Oct 1981,23 Oct 1981
+68,Bearish,23 Oct 1981,30 Oct 1981
+69,Bullish,30 Oct 1981,16 Nov 1981
+70,Bearish,16 Nov 1981,24 Nov 1981
+71,Bullish,24 Nov 1981,14 Dec 1981
+72,Bearish,14 Dec 1981,11 Jan 1982
+73,No Trend,11 Jan 1982,14 Jan 1982
+74,Bearish,14 Jan 1982,28 Jan 1982
+75,Bullish,28 Jan 1982,04 Feb 1982
+76,Bearish,04 Feb 1982,19 Feb 1982
+77,No Trend,19 Feb 1982,22 Feb 1982
+78,Bearish,22 Feb 1982,23 Feb 1982
+79,No Trend,23 Feb 1982,24 Feb 1982
+80,Bearish,24 Feb 1982,19 Mar 1982
+81,Bullish,19 Mar 1982,16 Apr 1982
+82,No Trend,16 Apr 1982,20 Apr 1982
+83,Bullish,20 Apr 1982,17 May 1982
+84,Bearish,17 May 1982,27 May 1982
+85,No Trend,27 May 1982,11 Jun 1982
+86,Bearish,11 Jun 1982,28 Jun 1982
+87,Bullish,28 Jun 1982,01 Jul 1982
+88,Bearish,01 Jul 1982,12 Jul 1982
+89,Bullish,12 Jul 1982,27 Jul 1982
+90,Bearish,27 Jul 1982,09 Aug 1982
+91,No Trend,09 Aug 1982,13 Aug 1982
+92,Bearish,13 Aug 1982,17 Aug 1982
+93,Bullish,17 Aug 1982,25 Aug 1982
+94,No Trend,25 Aug 1982,07 Sep 1982
+95,Bullish,07 Sep 1982,29 Sep 1982
+96,Bearish,29 Sep 1982,06 Oct 1982
+97,Bullish,06 Oct 1982,13 Oct 1982
+98,No Trend,13 Oct 1982,14 Oct 1982
+99,Bullish,14 Oct 1982,20 Oct 1982
+100,No Trend,20 Oct 1982,25 Oct 1982
+101,Bullish,25 Oct 1982,29 Oct 1982
+102,Bearish,29 Oct 1982,01 Nov 1982
+103,Bullish,01 Nov 1982,15 Nov 1982
+104,Bearish,15 Nov 1982,01 Dec 1982
+105,Bullish,01 Dec 1982,14 Dec 1982
+106,Bearish,14 Dec 1982,23 Dec 1982
+107,Bullish,23 Dec 1982,24 Jan 1983
+108,Bearish,24 Jan 1983,31 Jan 1983
+109,Bullish,31 Jan 1983,01 Feb 1983
+110,Bearish,01 Feb 1983,04 Feb 1983
+111,Bullish,04 Feb 1983,16 Mar 1983
+112,Bearish,16 Mar 1983,23 Mar 1983
+113,Bullish,23 Mar 1983,06 Apr 1983
+114,Bearish,06 Apr 1983,08 Apr 1983
+115,Bullish,08 Apr 1983,26 Apr 1983
+116,No Trend,26 Apr 1983,27 Apr 1983
+117,Bullish,27 Apr 1983,18 May 1983
+118,Bearish,18 May 1983,24 May 1983
+119,Bullish,24 May 1983,31 May 1983
+120,Bearish,31 May 1983,06 Jun 1983
+121,Bullish,06 Jun 1983,07 Jun 1983
+122,Bearish,07 Jun 1983,14 Jun 1983
+123,Bullish,14 Jun 1983,29 Jun 1983
+124,Bearish,29 Jun 1983,01 Jul 1983
+125,Bullish,01 Jul 1983,05 Jul 1983
+126,Bearish,05 Jul 1983,20 Jul 1983
+127,Bullish,20 Jul 1983,28 Jul 1983
+128,Bearish,28 Jul 1983,16 Aug 1983
+129,Bullish,16 Aug 1983,24 Aug 1983
+130,Bearish,24 Aug 1983,31 Aug 1983
+131,Bullish,31 Aug 1983,15 Sep 1983
+132,Bearish,15 Sep 1983,16 Sep 1983
+133,Bullish,16 Sep 1983,30 Sep 1983
+134,Bearish,30 Sep 1983,06 Oct 1983
+135,Bullish,06 Oct 1983,18 Oct 1983
+136,Bearish,18 Oct 1983,28 Oct 1983
+137,No Trend,28 Oct 1983,02 Nov 1983
+138,Bearish,02 Nov 1983,04 Nov 1983
+139,No Trend,04 Nov 1983,07 Nov 1983
+140,Bearish,07 Nov 1983,11 Nov 1983
+141,Bullish,11 Nov 1983,02 Dec 1983
+142,Bearish,02 Dec 1983,27 Dec 1983
+143,Bullish,27 Dec 1983,06 Jan 1984
+144,No Trend,06 Jan 1984,09 Jan 1984
+145,Bullish,09 Jan 1984,20 Jan 1984
+146,Bearish,20 Jan 1984,06 Feb 1984
+147,No Trend,06 Feb 1984,10 Feb 1984
+148,Bearish,10 Feb 1984,13 Feb 1984
+149,No Trend,13 Feb 1984,14 Feb 1984
+150,Bearish,14 Feb 1984,27 Feb 1984
+151,Bullish,27 Feb 1984,07 Mar 1984
+152,Bearish,07 Mar 1984,15 Mar 1984
+153,Bullish,15 Mar 1984,26 Mar 1984
+154,Bearish,26 Mar 1984,28 Mar 1984
+155,Bullish,28 Mar 1984,04 Apr 1984
+156,Bearish,04 Apr 1984,16 Apr 1984
+157,Bullish,16 Apr 1984,11 May 1984
+158,Bearish,11 May 1984,21 May 1984
+159,No Trend,21 May 1984,01 Jun 1984
+160,Bearish,01 Jun 1984,06 Jun 1984
+161,Bullish,06 Jun 1984,12 Jun 1984
+162,Bearish,12 Jun 1984,20 Jun 1984
+163,Bullish,20 Jun 1984,27 Jun 1984
+164,Bearish,27 Jun 1984,02 Jul 1984
+165,Bullish,02 Jul 1984,06 Jul 1984
+166,Bearish,06 Jul 1984,01 Aug 1984
+167,Bullish,01 Aug 1984,09 Aug 1984
+168,No Trend,09 Aug 1984,15 Aug 1984
+169,Bullish,15 Aug 1984,17 Aug 1984
+170,No Trend,17 Aug 1984,22 Aug 1984
+171,Bullish,22 Aug 1984,05 Sep 1984
+172,Bearish,05 Sep 1984,13 Sep 1984
+173,Bullish,13 Sep 1984,24 Sep 1984
+174,Bearish,24 Sep 1984,15 Oct 1984
+175,Bullish,15 Oct 1984,29 Oct 1984
+176,Bearish,29 Oct 1984,30 Oct 1984
+177,Bullish,30 Oct 1984,13 Nov 1984
+178,Bearish,13 Nov 1984,18 Dec 1984
+179,Bullish,18 Dec 1984,03 Jan 1985
+180,Bearish,03 Jan 1985,10 Jan 1985
+181,Bullish,10 Jan 1985,22 Jan 1985
+182,No Trend,22 Jan 1985,11 Feb 1985
+183,Bullish,11 Feb 1985,22 Feb 1985
+184,Bearish,22 Feb 1985,28 Feb 1985
+185,Bullish,28 Feb 1985,07 Mar 1985
+186,Bearish,07 Mar 1985,27 Mar 1985
+187,Bullish,27 Mar 1985,08 Apr 1985
+188,Bearish,08 Apr 1985,11 Apr 1985
+189,Bullish,11 Apr 1985,30 Apr 1985
+190,Bearish,30 Apr 1985,09 May 1985
+191,Bullish,09 May 1985,20 May 1985
+192,No Trend,20 May 1985,23 May 1985
+193,Bullish,23 May 1985,12 Jun 1985
+194,Bearish,12 Jun 1985,21 Jun 1985
+195,Bullish,21 Jun 1985,24 Jul 1985
+196,Bearish,24 Jul 1985,28 Aug 1985
+197,Bullish,28 Aug 1985,04 Sep 1985
+198,Bearish,04 Sep 1985,09 Sep 1985
+199,Bullish,09 Sep 1985,10 Sep 1985
+200,Bearish,10 Sep 1985,17 Sep 1985
+201,No Trend,17 Sep 1985,19 Sep 1985
+202,Bearish,19 Sep 1985,02 Oct 1985
+203,Bullish,02 Oct 1985,07 Oct 1985
+204,Bearish,07 Oct 1985,11 Oct 1985
+205,Bullish,11 Oct 1985,08 Nov 1985
+206,No Trend,08 Nov 1985,25 Nov 1985
+207,Bullish,25 Nov 1985,27 Nov 1985
+208,No Trend,27 Nov 1985,29 Nov 1985
+209,Bullish,29 Nov 1985,16 Dec 1985
+210,No Trend,16 Dec 1985,17 Dec 1985
+211,Bullish,17 Dec 1985,20 Dec 1985
+212,No Trend,20 Dec 1985,23 Dec 1985
+213,Bullish,23 Dec 1985,09 Jan 1986
+214,Bearish,09 Jan 1986,28 Jan 1986
+215,Bullish,28 Jan 1986,11 Feb 1986
+216,No Trend,11 Feb 1986,19 Feb 1986
+217,Bullish,19 Feb 1986,20 Feb 1986
+218,No Trend,20 Feb 1986,24 Feb 1986
+219,Bullish,24 Feb 1986,27 Feb 1986
+220,No Trend,27 Feb 1986,03 Mar 1986
+221,Bullish,03 Mar 1986,11 Mar 1986
+222,No Trend,11 Mar 1986,13 Mar 1986
+223,Bullish,13 Mar 1986,14 Mar 1986
+224,No Trend,14 Mar 1986,17 Mar 1986
+225,Bullish,17 Mar 1986,03 Apr 1986
+226,Bearish,03 Apr 1986,10 Apr 1986
+227,Bullish,10 Apr 1986,24 Apr 1986
+228,No Trend,24 Apr 1986,28 Apr 1986
+229,Bullish,28 Apr 1986,30 Apr 1986
+230,Bearish,30 Apr 1986,22 May 1986
+231,Bullish,22 May 1986,10 Jun 1986
+232,Bearish,10 Jun 1986,13 Jun 1986
+233,Bullish,13 Jun 1986,08 Jul 1986
+234,Bearish,08 Jul 1986,11 Aug 1986
+235,Bullish,11 Aug 1986,15 Aug 1986
+236,No Trend,15 Aug 1986,25 Aug 1986
+237,Bullish,25 Aug 1986,26 Aug 1986
+238,No Trend,26 Aug 1986,02 Sep 1986
+239,Bullish,02 Sep 1986,09 Sep 1986
+240,Bearish,09 Sep 1986,17 Sep 1986
+241,No Trend,17 Sep 1986,18 Sep 1986
+242,Bearish,18 Sep 1986,25 Sep 1986
+243,No Trend,25 Sep 1986,26 Sep 1986
+244,Bearish,26 Sep 1986,07 Oct 1986
+245,Bullish,07 Oct 1986,07 Nov 1986
+246,No Trend,07 Nov 1986,13 Nov 1986
+247,Bullish,13 Nov 1986,17 Nov 1986
+248,Bearish,17 Nov 1986,24 Nov 1986
+249,Bullish,24 Nov 1986,12 Dec 1986
+250,Bearish,12 Dec 1986,05 Jan 1987
+251,Bullish,05 Jan 1987,14 Jan 1987
+252,No Trend,14 Jan 1987,26 Jan 1987
+253,Bullish,26 Jan 1987,30 Mar 1987
+254,Bearish,30 Mar 1987,03 Apr 1987
+255,Bullish,03 Apr 1987,09 Apr 1987
+256,Bearish,09 Apr 1987,04 May 1987
+257,Bullish,04 May 1987,14 May 1987
+258,No Trend,14 May 1987,15 May 1987
+259,Bearish,15 May 1987,28 May 1987
+260,Bullish,28 May 1987,09 Jun 1987
+261,No Trend,09 Jun 1987,24 Jun 1987
+262,Bullish,24 Jun 1987,25 Jun 1987
+263,No Trend,25 Jun 1987,26 Jun 1987
+264,Bullish,26 Jun 1987,01 Jul 1987
+265,Bearish,01 Jul 1987,02 Jul 1987
+266,Bullish,02 Jul 1987,06 Jul 1987
+267,Bearish,06 Jul 1987,07 Jul 1987
+268,Bullish,07 Jul 1987,23 Jul 1987
+269,Bearish,23 Jul 1987,27 Jul 1987
+270,Bullish,27 Jul 1987,10 Aug 1987
+271,No Trend,10 Aug 1987,18 Aug 1987
+272,Bullish,18 Aug 1987,28 Aug 1987
+273,Bearish,28 Aug 1987,24 Sep 1987
+274,Bullish,24 Sep 1987,07 Oct 1987
+275,Bearish,07 Oct 1987,16 Oct 1987
+276,No Trend,16 Oct 1987,21 Oct 1987
+277,Bearish,21 Oct 1987,14 Dec 1987
+278,Bullish,14 Dec 1987,11 Jan 1988
+279,Bearish,11 Jan 1988,18 Jan 1988
+280,Bullish,18 Jan 1988,20 Jan 1988
+281,Bearish,20 Jan 1988,25 Jan 1988
+282,Bullish,25 Jan 1988,08 Feb 1988
+283,Bearish,08 Feb 1988,10 Feb 1988
+284,Bullish,10 Feb 1988,24 Mar 1988
+285,Bearish,24 Mar 1988,07 Apr 1988
+286,Bullish,07 Apr 1988,15 Apr 1988
+287,Bearish,15 Apr 1988,26 Apr 1988
+288,Bullish,26 Apr 1988,04 May 1988
+289,Bearish,04 May 1988,31 May 1988
+290,Bullish,31 May 1988,08 Jun 1988
+291,No Trend,08 Jun 1988,09 Jun 1988
+292,Bullish,09 Jun 1988,13 Jun 1988
+293,No Trend,13 Jun 1988,16 Jun 1988
+294,Bullish,16 Jun 1988,08 Jul 1988
+295,Bearish,08 Jul 1988,29 Jul 1988
+296,Bullish,29 Jul 1988,09 Aug 1988
+297,Bearish,09 Aug 1988,22 Aug 1988
+298,No Trend,22 Aug 1988,24 Aug 1988
+299,Bearish,24 Aug 1988,30 Aug 1988
+300,Bullish,30 Aug 1988,01 Sep 1988
+301,Bearish,01 Sep 1988,02 Sep 1988
+302,Bullish,02 Sep 1988,04 Nov 1988
+303,Bearish,04 Nov 1988,11 Nov 1988
+304,No Trend,11 Nov 1988,18 Nov 1988
+305,Bearish,18 Nov 1988,29 Nov 1988
+306,Bullish,29 Nov 1988,07 Dec 1988
+307,No Trend,07 Dec 1988,08 Dec 1988
+308,Bullish,08 Dec 1988,03 Jan 1989
+309,Bearish,03 Jan 1989,04 Jan 1989
+310,Bullish,04 Jan 1989,26 Jan 1989
+311,No Trend,26 Jan 1989,08 Feb 1989
+312,Bullish,08 Feb 1989,13 Feb 1989
+313,Bearish,13 Feb 1989,17 Feb 1989
+314,Bullish,17 Feb 1989,22 Feb 1989
+315,Bearish,22 Feb 1989,06 Mar 1989
+316,Bullish,06 Mar 1989,16 Mar 1989
+317,No Trend,16 Mar 1989,17 Mar 1989
+318,Bullish,17 Mar 1989,20 Mar 1989
+319,Bearish,20 Mar 1989,31 Mar 1989
+320,Bullish,31 Mar 1989,19 Apr 1989
+321,No Trend,19 Apr 1989,20 Apr 1989
+322,Bullish,20 Apr 1989,09 May 1989
+323,Bearish,09 May 1989,12 May 1989
+324,Bullish,12 May 1989,22 May 1989
+325,No Trend,22 May 1989,23 May 1989
+326,Bullish,23 May 1989,15 Jun 1989
+327,Bearish,15 Jun 1989,23 Jun 1989
+328,Bullish,23 Jun 1989,29 Jun 1989
+329,Bearish,29 Jun 1989,10 Jul 1989
+330,Bullish,10 Jul 1989,21 Jul 1989
+331,No Trend,21 Jul 1989,24 Jul 1989
+332,Bullish,24 Jul 1989,27 Jul 1989
+333,No Trend,27 Jul 1989,28 Jul 1989
+334,Bullish,28 Jul 1989,31 Jul 1989
+335,No Trend,31 Jul 1989,01 Aug 1989
+336,Bullish,01 Aug 1989,21 Aug 1989
+337,Bearish,21 Aug 1989,24 Aug 1989
+338,Bullish,24 Aug 1989,11 Sep 1989
+339,Bearish,11 Sep 1989,28 Sep 1989
+340,Bullish,28 Sep 1989,04 Oct 1989
+341,No Trend,04 Oct 1989,10 Oct 1989
+342,Bullish,10 Oct 1989,13 Oct 1989
+343,Bearish,13 Oct 1989,15 Nov 1989
+344,Bullish,15 Nov 1989,18 Dec 1989
+345,Bearish,18 Dec 1989,27 Dec 1989
+346,Bullish,27 Dec 1989,10 Jan 1990
+347,Bearish,10 Jan 1990,22 Jan 1990
+348,No Trend,22 Jan 1990,23 Jan 1990
+349,Bearish,23 Jan 1990,26 Jan 1990
+350,No Trend,26 Jan 1990,31 Jan 1990
+351,Bearish,31 Jan 1990,07 Feb 1990
+352,Bullish,07 Feb 1990,20 Feb 1990
+353,Bearish,20 Feb 1990,28 Feb 1990
+354,Bullish,28 Feb 1990,23 Mar 1990
+355,Bearish,23 Mar 1990,27 Mar 1990
+356,Bullish,27 Mar 1990,19 Apr 1990
+357,Bearish,19 Apr 1990,04 May 1990
+358,Bullish,04 May 1990,11 May 1990
+359,No Trend,11 May 1990,25 May 1990
+360,Bullish,25 May 1990,29 May 1990
+361,No Trend,29 May 1990,01 Jun 1990
+362,Bullish,01 Jun 1990,18 Jun 1990
+363,Bearish,18 Jun 1990,03 Jul 1990
+364,Bullish,03 Jul 1990,05 Jul 1990
+365,Bearish,05 Jul 1990,06 Jul 1990
+366,Bullish,06 Jul 1990,10 Jul 1990
+367,Bearish,10 Jul 1990,11 Jul 1990
+368,Bullish,11 Jul 1990,23 Jul 1990
+369,Bearish,23 Jul 1990,03 Aug 1990
+370,No Trend,03 Aug 1990,09 Aug 1990
+371,Bearish,09 Aug 1990,21 Aug 1990
+372,No Trend,21 Aug 1990,24 Aug 1990
+373,Bearish,24 Aug 1990,27 Sep 1990
+374,No Trend,27 Sep 1990,28 Sep 1990
+375,Bearish,28 Sep 1990,04 Oct 1990
+376,Bullish,04 Oct 1990,09 Oct 1990
+377,Bearish,09 Oct 1990,19 Oct 1990
+378,Bullish,19 Oct 1990,29 Oct 1990
+379,Bearish,29 Oct 1990,02 Nov 1990
+380,Bullish,02 Nov 1990,02 Jan 1991
+381,Bearish,02 Jan 1991,09 Jan 1991
+382,No Trend,09 Jan 1991,10 Jan 1991
+383,Bearish,10 Jan 1991,17 Jan 1991
+384,Bullish,17 Jan 1991,29 Jan 1991
+385,No Trend,29 Jan 1991,14 Feb 1991
+386,Bullish,14 Feb 1991,15 Feb 1991
+387,No Trend,15 Feb 1991,20 Feb 1991
+388,Bullish,20 Feb 1991,19 Mar 1991
+389,Bearish,19 Mar 1991,26 Mar 1991
+390,Bullish,26 Mar 1991,25 Apr 1991
+391,Bearish,25 Apr 1991,09 May 1991
+392,Bullish,09 May 1991,10 May 1991
+393,Bearish,10 May 1991,24 May 1991
+394,Bullish,24 May 1991,10 Jun 1991
+395,Bearish,10 Jun 1991,02 Jul 1991
+396,Bullish,02 Jul 1991,03 Jul 1991
+397,Bearish,03 Jul 1991,08 Jul 1991
+398,Bullish,08 Jul 1991,19 Aug 1991
+399,Bearish,19 Aug 1991,22 Aug 1991
+400,Bullish,22 Aug 1991,05 Sep 1991
+401,Bearish,05 Sep 1991,01 Oct 1991
+402,Bullish,01 Oct 1991,03 Oct 1991
+403,Bearish,03 Oct 1991,15 Oct 1991
+404,Bullish,15 Oct 1991,24 Oct 1991
+405,Bearish,24 Oct 1991,28 Oct 1991
+406,Bullish,28 Oct 1991,15 Nov 1991
+407,Bearish,15 Nov 1991,12 Dec 1991
+408,Bullish,12 Dec 1991,26 Dec 1991
+409,No Trend,26 Dec 1991,16 Jan 1992
+410,Bullish,16 Jan 1992,24 Jan 1992
+411,Bearish,24 Jan 1992,11 Feb 1992
+412,Bullish,11 Feb 1992,18 Feb 1992
+413,Bearish,18 Feb 1992,26 Feb 1992
+414,Bullish,26 Feb 1992,04 Mar 1992
+415,Bearish,04 Mar 1992,18 Mar 1992
+416,Bullish,18 Mar 1992,26 Mar 1992
+417,Bearish,26 Mar 1992,13 Apr 1992
+418,Bullish,13 Apr 1992,15 May 1992
+419,Bearish,15 May 1992,20 May 1992
+420,Bullish,20 May 1992,21 May 1992
+421,Bearish,21 May 1992,28 May 1992
+422,Bullish,28 May 1992,04 Jun 1992
+423,Bearish,04 Jun 1992,30 Jun 1992
+424,Bullish,30 Jun 1992,22 Jul 1992
+425,Bearish,22 Jul 1992,28 Jul 1992
+426,Bullish,28 Jul 1992,12 Aug 1992
+427,Bearish,12 Aug 1992,17 Aug 1992
+428,Bullish,17 Aug 1992,19 Aug 1992
+429,Bearish,19 Aug 1992,24 Aug 1992
+430,No Trend,24 Aug 1992,25 Aug 1992
+431,Bearish,25 Aug 1992,02 Sep 1992
+432,Bullish,02 Sep 1992,14 Sep 1992
+433,No Trend,14 Sep 1992,15 Sep 1992
+434,Bullish,15 Sep 1992,23 Sep 1992
+435,Bearish,23 Sep 1992,19 Oct 1992
+436,Bullish,19 Oct 1992,29 Oct 1992
+437,No Trend,29 Oct 1992,30 Oct 1992
+438,Bullish,30 Oct 1992,02 Nov 1992
+439,No Trend,02 Nov 1992,03 Nov 1992
+440,Bullish,03 Nov 1992,07 Dec 1992
+441,No Trend,07 Dec 1992,09 Dec 1992
+442,Bullish,09 Dec 1992,04 Jan 1993
+443,Bearish,04 Jan 1993,15 Jan 1993
+444,Bullish,15 Jan 1993,16 Feb 1993
+445,Bearish,16 Feb 1993,25 Feb 1993
+446,Bullish,25 Feb 1993,09 Mar 1993
+447,No Trend,09 Mar 1993,11 Mar 1993
+448,Bullish,11 Mar 1993,23 Mar 1993
+449,Bearish,23 Mar 1993,30 Mar 1993
+450,Bullish,30 Mar 1993,02 Apr 1993
+451,Bearish,02 Apr 1993,13 Apr 1993
+452,Bullish,13 Apr 1993,20 Apr 1993
+453,Bearish,20 Apr 1993,04 May 1993
+454,Bullish,04 May 1993,13 May 1993
+455,Bearish,13 May 1993,19 May 1993
+456,Bullish,19 May 1993,08 Jun 1993
+457,Bearish,08 Jun 1993,28 Jun 1993
+458,Bullish,28 Jun 1993,06 Jul 1993
+459,Bearish,06 Jul 1993,12 Jul 1993
+460,Bullish,12 Jul 1993,19 Jul 1993
+461,Bearish,19 Jul 1993,26 Jul 1993
+462,Bullish,26 Jul 1993,25 Aug 1993
+463,No Trend,25 Aug 1993,27 Aug 1993
+464,Bullish,27 Aug 1993,30 Aug 1993
+465,No Trend,30 Aug 1993,02 Sep 1993
+466,Bullish,02 Sep 1993,08 Sep 1993
+467,Bearish,08 Sep 1993,10 Sep 1993
+468,Bullish,10 Sep 1993,17 Sep 1993
+469,Bearish,17 Sep 1993,27 Sep 1993
+470,Bullish,27 Sep 1993,04 Nov 1993
+471,Bearish,04 Nov 1993,12 Nov 1993
+472,Bullish,12 Nov 1993,19 Nov 1993
+473,Bearish,19 Nov 1993,03 Dec 1993
+474,Bullish,03 Dec 1993,15 Dec 1993
+475,Bearish,15 Dec 1993,17 Dec 1993
+476,Bullish,17 Dec 1993,03 Jan 1994
+477,Bearish,03 Jan 1994,05 Jan 1994
+478,Bullish,05 Jan 1994,06 Jan 1994
+479,Bearish,06 Jan 1994,07 Jan 1994
+480,Bullish,07 Jan 1994,25 Jan 1994
+481,Bearish,25 Jan 1994,26 Jan 1994
+482,Bullish,26 Jan 1994,04 Feb 1994
+483,Bearish,04 Feb 1994,15 Mar 1994
+484,Bullish,15 Mar 1994,24 Mar 1994
+485,Bearish,24 Mar 1994,31 Mar 1994
+486,No Trend,31 Mar 1994,05 Apr 1994
+487,Bearish,05 Apr 1994,25 Apr 1994
+488,Bullish,25 Apr 1994,09 May 1994
+489,Bearish,09 May 1994,18 May 1994
+490,Bullish,18 May 1994,01 Jun 1994
+491,No Trend,01 Jun 1994,06 Jun 1994
+492,Bullish,06 Jun 1994,20 Jun 1994
+493,Bearish,20 Jun 1994,14 Jul 1994
+494,Bullish,14 Jul 1994,12 Sep 1994
+495,Bearish,12 Sep 1994,15 Sep 1994
+496,Bullish,15 Sep 1994,20 Sep 1994
+497,Bearish,20 Sep 1994,05 Oct 1994
+498,No Trend,05 Oct 1994,07 Oct 1994
+499,Bearish,07 Oct 1994,11 Oct 1994
+500,Bullish,11 Oct 1994,24 Oct 1994
+501,Bearish,24 Oct 1994,28 Oct 1994
+502,Bullish,28 Oct 1994,04 Nov 1994
+503,Bearish,04 Nov 1994,15 Dec 1994
+504,Bullish,15 Dec 1994,29 Dec 1994
+505,No Trend,29 Dec 1994,30 Dec 1994
+506,Bullish,30 Dec 1994,18 Jan 1995
+507,No Trend,18 Jan 1995,19 Jan 1995
+508,Bullish,19 Jan 1995,08 Feb 1995
+509,No Trend,08 Feb 1995,17 Feb 1995
+510,Bullish,17 Feb 1995,22 Feb 1995
+511,No Trend,22 Feb 1995,24 Feb 1995
+512,Bullish,24 Feb 1995,07 Mar 1995
+513,Bearish,07 Mar 1995,10 Mar 1995
+514,Bullish,10 Mar 1995,27 Mar 1995
+515,No Trend,27 Mar 1995,31 Mar 1995
+516,Bullish,31 Mar 1995,04 Apr 1995
+517,No Trend,04 Apr 1995,05 Apr 1995
+518,Bullish,05 Apr 1995,10 Apr 1995
+519,No Trend,10 Apr 1995,11 Apr 1995
+520,Bullish,11 Apr 1995,05 May 1995
+521,No Trend,05 May 1995,18 May 1995
+522,Bullish,18 May 1995,19 May 1995
+523,Bearish,19 May 1995,22 May 1995
+524,Bullish,22 May 1995,17 Jul 1995
+525,No Trend,17 Jul 1995,18 Jul 1995
+526,Bullish,18 Jul 1995,21 Jul 1995
+527,Bearish,21 Jul 1995,24 Jul 1995
+528,Bullish,24 Jul 1995,10 Aug 1995
+529,Bearish,10 Aug 1995,16 Aug 1995
+530,Bullish,16 Aug 1995,21 Aug 1995
+531,Bearish,21 Aug 1995,22 Aug 1995
+532,Bullish,22 Aug 1995,23 Aug 1995
+533,Bearish,23 Aug 1995,25 Aug 1995
+534,Bullish,25 Aug 1995,11 Sep 1995
+535,No Trend,11 Sep 1995,25 Sep 1995
+536,Bullish,25 Sep 1995,09 Oct 1995
+537,Bearish,09 Oct 1995,13 Oct 1995
+538,Bullish,13 Oct 1995,26 Oct 1995
+539,Bearish,26 Oct 1995,02 Nov 1995
+540,Bullish,02 Nov 1995,05 Dec 1995
+541,No Trend,05 Dec 1995,07 Dec 1995
+542,Bullish,07 Dec 1995,13 Dec 1995
+543,No Trend,13 Dec 1995,14 Dec 1995
+544,Bullish,14 Dec 1995,18 Dec 1995
+545,Bearish,18 Dec 1995,27 Dec 1995
+546,Bullish,27 Dec 1995,09 Jan 1996
+547,Bearish,09 Jan 1996,22 Jan 1996
+548,Bullish,22 Jan 1996,30 Jan 1996
+549,No Trend,30 Jan 1996,15 Feb 1996
+550,Bullish,15 Feb 1996,28 Feb 1996
+551,Bearish,28 Feb 1996,05 Mar 1996
+552,Bullish,05 Mar 1996,08 Mar 1996
+553,Bearish,08 Mar 1996,18 Mar 1996
+554,Bullish,18 Mar 1996,29 Mar 1996
+555,Bearish,29 Mar 1996,01 Apr 1996
+556,Bullish,01 Apr 1996,09 Apr 1996
+557,Bearish,09 Apr 1996,22 Apr 1996
+558,Bullish,22 Apr 1996,01 May 1996
+559,No Trend,01 May 1996,02 May 1996
+560,Bullish,02 May 1996,03 May 1996
+561,Bearish,03 May 1996,10 May 1996
+562,Bullish,10 May 1996,22 May 1996
+563,No Trend,22 May 1996,29 May 1996
+564,Bullish,29 May 1996,12 Jun 1996
+565,Bearish,12 Jun 1996,27 Jun 1996
+566,Bullish,27 Jun 1996,05 Jul 1996
+567,Bearish,05 Jul 1996,01 Aug 1996
+568,Bullish,01 Aug 1996,12 Aug 1996
+569,No Trend,12 Aug 1996,13 Aug 1996
+570,Bullish,13 Aug 1996,16 Aug 1996
+571,No Trend,16 Aug 1996,20 Aug 1996
+572,Bullish,20 Aug 1996,29 Aug 1996
+573,Bearish,29 Aug 1996,10 Sep 1996
+574,Bullish,10 Sep 1996,20 Sep 1996
+575,No Trend,20 Sep 1996,24 Sep 1996
+576,Bullish,24 Sep 1996,25 Sep 1996
+577,No Trend,25 Sep 1996,03 Oct 1996
+578,Bullish,03 Oct 1996,04 Oct 1996
+579,No Trend,04 Oct 1996,09 Oct 1996
+580,Bullish,09 Oct 1996,28 Oct 1996
+581,Bearish,28 Oct 1996,31 Oct 1996
+582,Bullish,31 Oct 1996,13 Nov 1996
+583,No Trend,13 Nov 1996,03 Dec 1996
+584,Bullish,03 Dec 1996,06 Dec 1996
+585,Bearish,06 Dec 1996,10 Dec 1996
+586,Bullish,10 Dec 1996,11 Dec 1996
+587,Bearish,11 Dec 1996,20 Dec 1996
+588,Bullish,20 Dec 1996,02 Jan 1997
+589,Bearish,02 Jan 1997,03 Jan 1997
+590,Bullish,03 Jan 1997,21 Jan 1997
+591,No Trend,21 Jan 1997,23 Jan 1997
+592,Bullish,23 Jan 1997,28 Jan 1997
+593,Bearish,28 Jan 1997,29 Jan 1997
+594,Bullish,29 Jan 1997,28 Feb 1997
+595,Bearish,28 Feb 1997,07 Mar 1997
+596,Bullish,07 Mar 1997,13 Mar 1997
+597,Bearish,13 Mar 1997,31 Mar 1997
+598,No Trend,31 Mar 1997,01 Apr 1997
+599,Bearish,01 Apr 1997,18 Apr 1997
+600,Bullish,18 Apr 1997,01 May 1997
+601,No Trend,01 May 1997,06 May 1997
+602,Bullish,06 May 1997,15 May 1997
+603,No Trend,15 May 1997,16 May 1997
+604,Bullish,16 May 1997,12 Jun 1997
+605,No Trend,12 Jun 1997,23 Jun 1997
+606,Bullish,23 Jun 1997,11 Aug 1997
+607,Bearish,11 Aug 1997,03 Sep 1997
+608,Bullish,03 Sep 1997,11 Sep 1997
+609,Bearish,11 Sep 1997,16 Sep 1997
+610,Bullish,16 Sep 1997,16 Oct 1997
+611,Bearish,16 Oct 1997,22 Oct 1997
+612,Bullish,22 Oct 1997,23 Oct 1997
+613,Bearish,23 Oct 1997,27 Oct 1997
+614,No Trend,27 Oct 1997,28 Oct 1997
+615,Bearish,28 Oct 1997,05 Nov 1997
+616,Bullish,05 Nov 1997,07 Nov 1997
+617,Bearish,07 Nov 1997,17 Nov 1997
+618,Bullish,17 Nov 1997,12 Dec 1997
+619,Bearish,12 Dec 1997,30 Dec 1997
+620,Bullish,30 Dec 1997,09 Jan 1998
+621,Bearish,09 Jan 1998,16 Jan 1998
+622,Bullish,16 Jan 1998,11 Feb 1998
+623,No Trend,11 Feb 1998,19 Feb 1998
+624,Bullish,19 Feb 1998,20 Feb 1998
+625,No Trend,20 Feb 1998,23 Feb 1998
+626,Bullish,23 Feb 1998,25 Mar 1998
+627,No Trend,25 Mar 1998,27 Mar 1998
+628,Bullish,27 Mar 1998,02 Apr 1998
+629,No Trend,02 Apr 1998,03 Apr 1998
+630,Bullish,03 Apr 1998,27 Apr 1998
+631,Bearish,27 Apr 1998,01 May 1998
+632,Bullish,01 May 1998,07 May 1998
+633,Bearish,07 May 1998,12 May 1998
+634,Bullish,12 May 1998,18 May 1998
+635,Bearish,18 May 1998,20 May 1998
+636,Bullish,20 May 1998,26 May 1998
+637,Bearish,26 May 1998,05 Jun 1998
+638,Bullish,05 Jun 1998,12 Jun 1998
+639,Bearish,12 Jun 1998,18 Jun 1998
+640,Bullish,18 Jun 1998,06 Jul 1998
+641,No Trend,06 Jul 1998,09 Jul 1998
+642,Bullish,09 Jul 1998,10 Jul 1998
+643,No Trend,10 Jul 1998,13 Jul 1998
+644,Bullish,13 Jul 1998,23 Jul 1998
+645,Bearish,23 Jul 1998,15 Sep 1998
+646,Bullish,15 Sep 1998,01 Oct 1998
+647,Bearish,01 Oct 1998,15 Oct 1998
+648,Bullish,15 Oct 1998,27 Oct 1998
+649,No Trend,27 Oct 1998,09 Nov 1998
+650,Bullish,09 Nov 1998,23 Nov 1998
+651,No Trend,23 Nov 1998,24 Nov 1998
+652,Bullish,24 Nov 1998,14 Dec 1998
+653,Bearish,14 Dec 1998,17 Dec 1998
+654,Bullish,17 Dec 1998,05 Jan 1999
+655,No Trend,05 Jan 1999,11 Jan 1999
+656,Bullish,11 Jan 1999,14 Jan 1999
+657,Bearish,14 Jan 1999,19 Jan 1999
+658,Bullish,19 Jan 1999,22 Jan 1999
+659,Bearish,22 Jan 1999,26 Jan 1999
+660,Bullish,26 Jan 1999,05 Feb 1999
+661,Bearish,05 Feb 1999,22 Feb 1999
+662,Bullish,22 Feb 1999,01 Mar 1999
+663,Bearish,01 Mar 1999,05 Mar 1999
+664,Bullish,05 Mar 1999,23 Mar 1999
+665,Bearish,23 Mar 1999,29 Mar 1999
+666,Bullish,29 Mar 1999,19 Apr 1999
+667,Bearish,19 Apr 1999,22 Apr 1999
+668,Bullish,22 Apr 1999,06 May 1999
+669,Bearish,06 May 1999,11 May 1999
+670,Bullish,11 May 1999,17 May 1999
+671,Bearish,17 May 1999,07 Jun 1999
+672,Bullish,07 Jun 1999,10 Jun 1999
+673,Bearish,10 Jun 1999,16 Jun 1999
+674,Bullish,16 Jun 1999,25 Jun 1999
+675,Bearish,25 Jun 1999,28 Jun 1999
+676,Bullish,28 Jun 1999,15 Jul 1999
+677,No Trend,15 Jul 1999,20 Jul 1999
+678,Bullish,20 Jul 1999,21 Jul 1999
+679,Bearish,21 Jul 1999,04 Aug 1999
+680,No Trend,04 Aug 1999,09 Aug 1999
+681,Bearish,09 Aug 1999,10 Aug 1999
+682,No Trend,10 Aug 1999,11 Aug 1999
+683,Bearish,11 Aug 1999,17 Aug 1999
+684,Bullish,17 Aug 1999,31 Aug 1999
+685,Bearish,31 Aug 1999,03 Sep 1999
+686,Bullish,03 Sep 1999,14 Sep 1999
+687,Bearish,14 Sep 1999,06 Oct 1999
+688,Bullish,06 Oct 1999,13 Oct 1999
+689,Bearish,13 Oct 1999,25 Oct 1999
+690,Bullish,25 Oct 1999,26 Oct 1999
+691,Bearish,26 Oct 1999,27 Oct 1999
+692,Bullish,27 Oct 1999,15 Nov 1999
+693,No Trend,15 Nov 1999,17 Nov 1999
+694,Bullish,17 Nov 1999,01 Dec 1999
+695,Bearish,01 Dec 1999,02 Dec 1999
+696,Bullish,02 Dec 1999,14 Dec 1999
+697,Bearish,14 Dec 1999,15 Dec 1999
+698,Bullish,15 Dec 1999,29 Dec 1999
+699,No Trend,29 Dec 1999,31 Dec 1999
+700,Bullish,31 Dec 1999,04 Jan 2000
+701,Bearish,04 Jan 2000,10 Jan 2000
+702,Bullish,10 Jan 2000,12 Jan 2000
+703,Bearish,12 Jan 2000,13 Jan 2000
+704,Bullish,13 Jan 2000,24 Jan 2000
+705,Bearish,24 Jan 2000,04 Feb 2000
+706,Bullish,04 Feb 2000,11 Feb 2000
+707,Bearish,11 Feb 2000,02 Mar 2000
+708,Bullish,02 Mar 2000,08 Mar 2000
+709,Bearish,08 Mar 2000,09 Mar 2000
+710,Bullish,09 Mar 2000,14 Mar 2000
+711,Bearish,14 Mar 2000,15 Mar 2000
+712,Bullish,15 Mar 2000,27 Mar 2000
+713,No Trend,27 Mar 2000,28 Mar 2000
+714,Bullish,28 Mar 2000,03 Apr 2000
+715,No Trend,03 Apr 2000,04 Apr 2000
+716,Bullish,04 Apr 2000,12 Apr 2000
+717,Bearish,12 Apr 2000,14 Apr 2000
+718,No Trend,14 Apr 2000,17 Apr 2000
+719,Bearish,17 Apr 2000,26 Apr 2000
+720,Bullish,26 Apr 2000,03 May 2000
+721,Bearish,03 May 2000,15 May 2000
+722,Bullish,15 May 2000,19 May 2000
+723,Bearish,19 May 2000,01 Jun 2000
+724,Bullish,01 Jun 2000,23 Jun 2000
+725,Bearish,23 Jun 2000,03 Jul 2000
+726,Bullish,03 Jul 2000,05 Jul 2000
+727,Bearish,05 Jul 2000,07 Jul 2000
+728,Bullish,07 Jul 2000,24 Jul 2000
+729,Bearish,24 Jul 2000,07 Aug 2000
+730,Bullish,07 Aug 2000,08 Sep 2000
+731,Bearish,08 Sep 2000,27 Sep 2000
+732,No Trend,27 Sep 2000,28 Sep 2000
+733,Bearish,28 Sep 2000,23 Oct 2000
+734,Bullish,23 Oct 2000,25 Oct 2000
+735,Bearish,25 Oct 2000,30 Oct 2000
+736,Bullish,30 Oct 2000,10 Nov 2000
+737,Bearish,10 Nov 2000,06 Dec 2000
+738,Bullish,06 Dec 2000,15 Dec 2000
+739,Bearish,15 Dec 2000,28 Dec 2000
+740,Bullish,28 Dec 2000,02 Jan 2001
+741,Bearish,02 Jan 2001,03 Jan 2001
+742,Bullish,03 Jan 2001,05 Jan 2001
+743,Bearish,05 Jan 2001,11 Jan 2001
+744,Bullish,11 Jan 2001,30 Jan 2001
+745,No Trend,30 Jan 2001,31 Jan 2001
+746,Bullish,31 Jan 2001,07 Feb 2001
+747,Bearish,07 Feb 2001,22 Feb 2001
+748,No Trend,22 Feb 2001,26 Feb 2001
+749,Bearish,26 Feb 2001,10 Apr 2001
+750,Bullish,10 Apr 2001,30 May 2001
+751,Bearish,30 May 2001,07 Jun 2001
+752,Bullish,07 Jun 2001,08 Jun 2001
+753,Bearish,08 Jun 2001,02 Jul 2001
+754,Bullish,02 Jul 2001,05 Jul 2001
+755,Bearish,05 Jul 2001,19 Jul 2001
+756,Bullish,19 Jul 2001,23 Jul 2001
+757,Bearish,23 Jul 2001,31 Jul 2001
+758,Bullish,31 Jul 2001,08 Aug 2001
+759,Bearish,08 Aug 2001,18 Sep 2001
+760,No Trend,18 Sep 2001,25 Sep 2001
+761,Bearish,25 Sep 2001,02 Oct 2001
+762,Bullish,02 Oct 2001,11 Oct 2001
+763,No Trend,11 Oct 2001,12 Oct 2001
+764,Bullish,12 Oct 2001,16 Oct 2001
+765,No Trend,16 Oct 2001,17 Oct 2001
+766,Bullish,17 Oct 2001,30 Oct 2001
+767,Bearish,30 Oct 2001,05 Nov 2001
+768,Bullish,05 Nov 2001,19 Nov 2001
+769,No Trend,19 Nov 2001,21 Nov 2001
+770,Bullish,21 Nov 2001,03 Dec 2001
+771,Bearish,03 Dec 2001,04 Dec 2001
+772,Bullish,04 Dec 2001,11 Dec 2001
+773,Bearish,11 Dec 2001,19 Dec 2001
+774,Bullish,19 Dec 2001,11 Jan 2002
+775,Bearish,11 Jan 2002,13 Feb 2002
+776,Bullish,13 Feb 2002,19 Feb 2002
+777,Bearish,19 Feb 2002,26 Feb 2002
+778,Bullish,26 Feb 2002,22 Mar 2002
+779,Bearish,22 Mar 2002,06 May 2002
+780,No Trend,06 May 2002,08 May 2002
+781,Bearish,08 May 2002,14 May 2002
+782,Bullish,14 May 2002,28 May 2002
+783,Bearish,28 May 2002,13 Jun 2002
+784,No Trend,13 Jun 2002,17 Jun 2002
+785,Bearish,17 Jun 2002,30 Jul 2002
+786,Bullish,30 Jul 2002,05 Aug 2002
+787,Bearish,05 Aug 2002,08 Aug 2002
+788,Bullish,08 Aug 2002,29 Aug 2002
+789,Bearish,29 Aug 2002,14 Oct 2002
+790,Bullish,14 Oct 2002,11 Nov 2002
+791,Bearish,11 Nov 2002,15 Nov 2002
+792,Bullish,15 Nov 2002,05 Dec 2002
+793,Bearish,05 Dec 2002,03 Jan 2003
+794,Bullish,03 Jan 2003,17 Jan 2003
+795,Bearish,17 Jan 2003,21 Feb 2003
+796,Bullish,21 Feb 2003,24 Feb 2003
+797,Bearish,24 Feb 2003,17 Mar 2003
+798,Bullish,17 Mar 2003,01 Apr 2003
+799,Bearish,01 Apr 2003,02 Apr 2003
+800,Bullish,02 Apr 2003,20 May 2003
+801,Bearish,20 May 2003,27 May 2003
+802,Bullish,27 May 2003,10 Jun 2003
+803,No Trend,10 Jun 2003,13 Jun 2003
+804,Bullish,13 Jun 2003,24 Jun 2003
+805,Bearish,24 Jun 2003,07 Jul 2003
+806,Bullish,07 Jul 2003,17 Jul 2003
+807,Bearish,17 Jul 2003,28 Jul 2003
+808,Bullish,28 Jul 2003,30 Jul 2003
+809,Bearish,30 Jul 2003,12 Aug 2003
+810,Bullish,12 Aug 2003,03 Sep 2003
+811,No Trend,03 Sep 2003,05 Sep 2003
+812,Bullish,05 Sep 2003,24 Sep 2003
+813,Bearish,24 Sep 2003,03 Oct 2003
+814,Bullish,03 Oct 2003,23 Oct 2003
+815,Bearish,23 Oct 2003,28 Oct 2003
+816,Bullish,28 Oct 2003,17 Nov 2003
+817,Bearish,17 Nov 2003,25 Nov 2003
+818,Bullish,25 Nov 2003,30 Dec 2003
+819,No Trend,30 Dec 2003,09 Jan 2004
+820,Bullish,09 Jan 2004,30 Jan 2004
+821,Bearish,30 Jan 2004,06 Feb 2004
+822,Bullish,06 Feb 2004,23 Feb 2004
+823,Bearish,23 Feb 2004,01 Mar 2004
+824,Bullish,01 Mar 2004,09 Mar 2004
+825,Bearish,09 Mar 2004,30 Mar 2004
+826,Bullish,30 Mar 2004,15 Apr 2004
+827,Bearish,15 Apr 2004,19 Apr 2004
+828,Bullish,19 Apr 2004,20 Apr 2004
+829,Bearish,20 Apr 2004,23 Apr 2004
+830,Bullish,23 Apr 2004,28 Apr 2004
+831,Bearish,28 Apr 2004,25 May 2004
+832,Bullish,25 May 2004,07 Jun 2004
+833,No Trend,07 Jun 2004,09 Jun 2004
+834,Bullish,09 Jun 2004,02 Jul 2004
+835,Bearish,02 Jul 2004,02 Aug 2004
+836,Bullish,02 Aug 2004,04 Aug 2004
+837,Bearish,04 Aug 2004,18 Aug 2004
+838,Bullish,18 Aug 2004,02 Sep 2004
+839,No Trend,02 Sep 2004,03 Sep 2004
+840,Bullish,03 Sep 2004,23 Sep 2004
+841,Bearish,23 Sep 2004,01 Oct 2004
+842,Bullish,01 Oct 2004,13 Oct 2004
+843,Bearish,13 Oct 2004,27 Oct 2004
+844,Bullish,27 Oct 2004,08 Nov 2004
+845,No Trend,08 Nov 2004,19 Nov 2004
+846,Bullish,19 Nov 2004,04 Jan 2005
+847,Bearish,04 Jan 2005,01 Feb 2005
+848,Bullish,01 Feb 2005,22 Feb 2005
+849,Bearish,22 Feb 2005,25 Feb 2005
+850,Bullish,25 Feb 2005,11 Mar 2005
+851,Bearish,11 Mar 2005,24 Mar 2005
+852,No Trend,24 Mar 2005,30 Mar 2005
+853,Bearish,30 Mar 2005,07 Apr 2005
+854,Bullish,07 Apr 2005,13 Apr 2005
+855,Bearish,13 Apr 2005,03 May 2005
+856,Bullish,03 May 2005,13 May 2005
+857,Bearish,13 May 2005,17 May 2005
+858,Bullish,17 May 2005,24 Jun 2005
+859,Bearish,24 Jun 2005,08 Jul 2005
+860,Bullish,08 Jul 2005,08 Aug 2005
+861,Bearish,08 Aug 2005,11 Aug 2005
+862,Bullish,11 Aug 2005,12 Aug 2005
+863,Bearish,12 Aug 2005,15 Aug 2005
+864,Bullish,15 Aug 2005,16 Aug 2005
+865,Bearish,16 Aug 2005,02 Sep 2005
+866,Bullish,02 Sep 2005,20 Sep 2005
+867,Bearish,20 Sep 2005,30 Sep 2005
+868,Bullish,30 Sep 2005,04 Oct 2005
+869,Bearish,04 Oct 2005,25 Oct 2005
+870,Bullish,25 Oct 2005,27 Oct 2005
+871,Bearish,27 Oct 2005,28 Oct 2005
+872,Bullish,28 Oct 2005,16 Nov 2005
+873,No Trend,16 Nov 2005,18 Nov 2005
+874,Bullish,18 Nov 2005,21 Nov 2005
+875,No Trend,21 Nov 2005,28 Nov 2005
+876,Bullish,28 Nov 2005,27 Dec 2005
+877,Bearish,27 Dec 2005,04 Jan 2006
+878,Bullish,04 Jan 2006,20 Jan 2006
+879,Bearish,20 Jan 2006,27 Jan 2006
+880,Bullish,27 Jan 2006,03 Feb 2006
+881,Bearish,03 Feb 2006,15 Feb 2006
+882,Bullish,15 Feb 2006,06 Mar 2006
+883,Bearish,06 Mar 2006,14 Mar 2006
+884,Bullish,14 Mar 2006,31 Mar 2006
+885,Bearish,31 Mar 2006,04 Apr 2006
+886,Bullish,04 Apr 2006,10 Apr 2006
+887,Bearish,10 Apr 2006,19 Apr 2006
+888,Bullish,19 Apr 2006,12 May 2006
+889,Bearish,12 May 2006,02 Jun 2006
+890,Bullish,02 Jun 2006,05 Jun 2006
+891,Bearish,05 Jun 2006,29 Jun 2006
+892,Bullish,29 Jun 2006,13 Jul 2006
+893,Bearish,13 Jul 2006,25 Jul 2006
+894,Bullish,25 Jul 2006,11 Aug 2006
+895,Bearish,11 Aug 2006,15 Aug 2006
+896,Bullish,15 Aug 2006,01 Sep 2006
+897,No Trend,01 Sep 2006,05 Sep 2006
+898,Bullish,05 Sep 2006,11 Sep 2006
+899,Bearish,11 Sep 2006,12 Sep 2006
+900,Bullish,12 Sep 2006,12 Oct 2006
+901,No Trend,12 Oct 2006,13 Oct 2006
+902,Bullish,13 Oct 2006,20 Oct 2006
+903,No Trend,20 Oct 2006,24 Oct 2006
+904,Bullish,24 Oct 2006,26 Oct 2006
+905,No Trend,26 Oct 2006,27 Oct 2006
+906,Bullish,27 Oct 2006,02 Nov 2006
+907,Bearish,02 Nov 2006,06 Nov 2006
+908,Bullish,06 Nov 2006,21 Nov 2006
+909,No Trend,21 Nov 2006,24 Nov 2006
+910,Bullish,24 Nov 2006,28 Nov 2006
+911,Bearish,28 Nov 2006,29 Nov 2006
+912,Bullish,29 Nov 2006,15 Dec 2006
+913,No Trend,15 Dec 2006,18 Dec 2006
+914,Bullish,18 Dec 2006,05 Jan 2007
+915,Bearish,05 Jan 2007,11 Jan 2007
+916,Bullish,11 Jan 2007,29 Jan 2007
+917,Bearish,29 Jan 2007,30 Jan 2007
+918,Bullish,30 Jan 2007,27 Feb 2007
+919,Bearish,27 Feb 2007,20 Mar 2007
+920,Bullish,20 Mar 2007,18 Apr 2007
+921,No Trend,18 Apr 2007,24 Apr 2007
+922,Bullish,24 Apr 2007,25 Apr 2007
+923,No Trend,25 Apr 2007,27 Apr 2007
+924,Bullish,27 Apr 2007,07 Jun 2007
+925,Bearish,07 Jun 2007,15 Jun 2007
+926,Bullish,15 Jun 2007,22 Jun 2007
+927,Bearish,22 Jun 2007,03 Jul 2007
+928,Bullish,03 Jul 2007,24 Jul 2007
+929,Bearish,24 Jul 2007,22 Aug 2007
+930,Bullish,22 Aug 2007,28 Aug 2007
+931,Bearish,28 Aug 2007,29 Aug 2007
+932,Bullish,29 Aug 2007,10 Sep 2007
+933,Bearish,10 Sep 2007,11 Sep 2007
+934,Bullish,11 Sep 2007,17 Oct 2007
+935,Bearish,17 Oct 2007,29 Oct 2007
+936,Bullish,29 Oct 2007,01 Nov 2007
+937,Bearish,01 Nov 2007,29 Nov 2007
+938,Bullish,29 Nov 2007,17 Dec 2007
+939,Bearish,17 Dec 2007,24 Dec 2007
+940,Bullish,24 Dec 2007,31 Dec 2007
+941,Bearish,31 Dec 2007,18 Jan 2008
+942,No Trend,18 Jan 2008,23 Jan 2008
+943,Bearish,23 Jan 2008,31 Jan 2008
+944,Bullish,31 Jan 2008,05 Feb 2008
+945,Bearish,05 Feb 2008,13 Feb 2008
+946,Bullish,13 Feb 2008,14 Feb 2008
+947,Bearish,14 Feb 2008,20 Feb 2008
+948,Bullish,20 Feb 2008,21 Feb 2008
+949,Bearish,21 Feb 2008,25 Feb 2008
+950,Bullish,25 Feb 2008,29 Feb 2008
+951,Bearish,29 Feb 2008,20 Mar 2008
+952,Bullish,20 Mar 2008,11 Apr 2008
+953,Bearish,11 Apr 2008,17 Apr 2008
+954,Bullish,17 Apr 2008,02 May 2008
+955,No Trend,02 May 2008,05 May 2008
+956,Bullish,05 May 2008,22 May 2008
+957,Bearish,22 May 2008,03 Jul 2008
+958,No Trend,03 Jul 2008,08 Jul 2008
+959,Bearish,08 Jul 2008,22 Jul 2008
+960,Bullish,22 Jul 2008,28 Jul 2008
+961,Bearish,28 Jul 2008,30 Jul 2008
+962,Bullish,30 Jul 2008,04 Aug 2008
+963,Bearish,04 Aug 2008,05 Aug 2008
+964,Bullish,05 Aug 2008,19 Aug 2008
+965,Bearish,19 Aug 2008,22 Aug 2008
+966,Bullish,22 Aug 2008,25 Aug 2008
+967,Bearish,25 Aug 2008,28 Aug 2008
+968,Bullish,28 Aug 2008,03 Sep 2008
+969,Bearish,03 Sep 2008,09 Oct 2008
+970,No Trend,09 Oct 2008,13 Oct 2008
+971,Bearish,13 Oct 2008,31 Oct 2008
+972,Bullish,31 Oct 2008,06 Nov 2008
+973,Bearish,06 Nov 2008,28 Nov 2008
+974,Bullish,28 Nov 2008,01 Dec 2008
+975,Bearish,01 Dec 2008,03 Dec 2008
+976,Bullish,03 Dec 2008,04 Dec 2008
+977,Bearish,04 Dec 2008,05 Dec 2008
+978,Bullish,05 Dec 2008,23 Dec 2008
+979,Bearish,23 Dec 2008,30 Dec 2008
+980,Bullish,30 Dec 2008,12 Jan 2009
+981,Bearish,12 Jan 2009,06 Feb 2009
+982,Bullish,06 Feb 2009,11 Feb 2009
+983,Bearish,11 Feb 2009,27 Feb 2009
+984,No Trend,27 Feb 2009,04 Mar 2009
+985,Bearish,04 Mar 2009,05 Mar 2009
+986,No Trend,05 Mar 2009,09 Mar 2009
+987,Bearish,09 Mar 2009,13 Mar 2009
+988,Bullish,13 Mar 2009,15 May 2009
+989,Bearish,15 May 2009,18 May 2009
+990,Bullish,18 May 2009,22 May 2009
+991,Bearish,22 May 2009,26 May 2009
+992,Bullish,26 May 2009,27 May 2009
+993,Bearish,27 May 2009,28 May 2009
+994,Bullish,28 May 2009,16 Jun 2009
+995,Bearish,16 Jun 2009,29 Jun 2009
+996,Bullish,29 Jun 2009,02 Jul 2009
+997,Bearish,02 Jul 2009,15 Jul 2009
+998,Bullish,15 Jul 2009,23 Jul 2009
+999,No Trend,23 Jul 2009,10 Aug 2009
+1000,Bullish,10 Aug 2009,18 Aug 2009
+1001,Bearish,18 Aug 2009,20 Aug 2009
+1002,Bullish,20 Aug 2009,02 Sep 2009
+1003,Bearish,02 Sep 2009,08 Sep 2009
+1004,Bullish,08 Sep 2009,22 Sep 2009
+1005,No Trend,22 Sep 2009,24 Sep 2009
+1006,Bullish,24 Sep 2009,01 Oct 2009
+1007,Bearish,01 Oct 2009,07 Oct 2009
+1008,Bullish,07 Oct 2009,26 Oct 2009
+1009,Bearish,26 Oct 2009,09 Nov 2009
+1010,Bullish,09 Nov 2009,08 Dec 2009
+1011,Bearish,08 Dec 2009,11 Dec 2009
+1012,Bullish,11 Dec 2009,18 Dec 2009
+1013,Bearish,18 Dec 2009,21 Dec 2009
+1014,Bullish,21 Dec 2009,08 Jan 2010
+1015,No Trend,08 Jan 2010,12 Jan 2010
+1016,Bullish,12 Jan 2010,21 Jan 2010
+1017,Bearish,21 Jan 2010,17 Feb 2010
+1018,Bullish,17 Feb 2010,05 Mar 2010
+1019,No Trend,05 Mar 2010,08 Mar 2010
+1020,Bullish,08 Mar 2010,15 Mar 2010
+1021,No Trend,15 Mar 2010,25 Mar 2010
+1022,Bullish,25 Mar 2010,14 Apr 2010
+1023,No Trend,14 Apr 2010,16 Apr 2010
+1024,Bullish,16 Apr 2010,28 Apr 2010
+1025,Bearish,28 Apr 2010,29 Apr 2010
+1026,Bullish,29 Apr 2010,30 Apr 2010
+1027,Bearish,30 Apr 2010,14 Jun 2010
+1028,Bullish,14 Jun 2010,24 Jun 2010
+1029,Bearish,24 Jun 2010,06 Jul 2010
+1030,No Trend,06 Jul 2010,07 Jul 2010
+1031,Bearish,07 Jul 2010,09 Jul 2010
+1032,Bullish,09 Jul 2010,11 Aug 2010
+1033,Bearish,11 Aug 2010,24 Aug 2010
+1034,No Trend,24 Aug 2010,25 Aug 2010
+1035,Bearish,25 Aug 2010,26 Aug 2010
+1036,No Trend,26 Aug 2010,27 Aug 2010
+1037,Bearish,27 Aug 2010,02 Sep 2010
+1038,Bullish,02 Sep 2010,20 Sep 2010
+1039,No Trend,20 Sep 2010,22 Sep 2010
+1040,Bullish,22 Sep 2010,08 Nov 2010
+1041,No Trend,08 Nov 2010,09 Nov 2010
+1042,Bullish,09 Nov 2010,16 Nov 2010
+1043,Bearish,16 Nov 2010,01 Dec 2010
+1044,Bullish,01 Dec 2010,14 Dec 2010
+1045,No Trend,14 Dec 2010,15 Dec 2010
+1046,Bullish,15 Dec 2010,16 Dec 2010
+1047,No Trend,16 Dec 2010,30 Dec 2010
+1048,Bullish,30 Dec 2010,05 Jan 2011
+1049,No Trend,05 Jan 2011,07 Jan 2011
+1050,Bullish,07 Jan 2011,17 Feb 2011
+1051,No Trend,17 Feb 2011,22 Feb 2011
+1052,Bullish,22 Feb 2011,23 Feb 2011
+1053,Bearish,23 Feb 2011,03 Mar 2011
+1054,Bullish,03 Mar 2011,07 Mar 2011
+1055,Bearish,07 Mar 2011,09 Mar 2011
+1056,Bullish,09 Mar 2011,10 Mar 2011
+1057,Bearish,10 Mar 2011,24 Mar 2011
+1058,Bullish,24 Mar 2011,05 Apr 2011
+1059,No Trend,05 Apr 2011,08 Apr 2011
+1060,Bullish,08 Apr 2011,13 Apr 2011
+1061,Bearish,13 Apr 2011,20 Apr 2011
+1062,Bullish,20 Apr 2011,13 May 2011
+1063,Bearish,13 May 2011,31 May 2011
+1064,Bullish,31 May 2011,01 Jun 2011
+1065,Bearish,01 Jun 2011,28 Jun 2011
+1066,Bullish,28 Jun 2011,14 Jul 2011
+1067,Bearish,14 Jul 2011,20 Jul 2011
+1068,Bullish,20 Jul 2011,27 Jul 2011
+1069,Bearish,27 Jul 2011,08 Aug 2011
+1070,No Trend,08 Aug 2011,09 Aug 2011
+1071,Bearish,09 Aug 2011,10 Aug 2011
+1072,No Trend,10 Aug 2011,11 Aug 2011
+1073,Bearish,11 Aug 2011,29 Aug 2011
+1074,Bullish,29 Aug 2011,06 Sep 2011
+1075,Bearish,06 Sep 2011,07 Sep 2011
+1076,Bullish,07 Sep 2011,09 Sep 2011
+1077,Bearish,09 Sep 2011,15 Sep 2011
+1078,Bullish,15 Sep 2011,21 Sep 2011
+1079,Bearish,21 Sep 2011,10 Oct 2011
+1080,Bullish,10 Oct 2011,10 Nov 2011
+1081,Bearish,10 Nov 2011,11 Nov 2011
+1082,Bullish,11 Nov 2011,16 Nov 2011
+1083,Bearish,16 Nov 2011,30 Nov 2011
+1084,Bullish,30 Nov 2011,14 Dec 2011
+1085,Bearish,14 Dec 2011,21 Dec 2011
+1086,Bullish,21 Dec 2011,10 Jan 2012
+1087,No Trend,10 Jan 2012,11 Jan 2012
+1088,Bullish,11 Jan 2012,19 Jan 2012
+1089,No Trend,19 Jan 2012,26 Jan 2012
+1090,Bullish,26 Jan 2012,03 Feb 2012
+1091,No Trend,03 Feb 2012,07 Feb 2012
+1092,Bullish,07 Feb 2012,06 Mar 2012
+1093,Bearish,06 Mar 2012,09 Mar 2012
+1094,Bullish,09 Mar 2012,26 Mar 2012
+1095,No Trend,26 Mar 2012,27 Mar 2012
+1096,Bullish,27 Mar 2012,05 Apr 2012
+1097,Bearish,05 Apr 2012,26 Apr 2012
+1098,Bullish,26 Apr 2012,04 May 2012
+1099,Bearish,04 May 2012,16 May 2012
+1100,No Trend,16 May 2012,23 May 2012
+1101,Bearish,23 May 2012,08 Jun 2012
+1102,Bullish,08 Jun 2012,25 Jun 2012
+1103,Bearish,25 Jun 2012,29 Jun 2012
+1104,Bullish,29 Jun 2012,11 Jul 2012
+1105,Bearish,11 Jul 2012,13 Jul 2012
+1106,Bullish,13 Jul 2012,24 Jul 2012
+1107,Bearish,24 Jul 2012,27 Jul 2012
+1108,Bullish,27 Jul 2012,22 Aug 2012
+1109,No Trend,22 Aug 2012,23 Aug 2012
+1110,Bullish,23 Aug 2012,30 Aug 2012
+1111,Bearish,30 Aug 2012,06 Sep 2012
+1112,Bullish,06 Sep 2012,20 Sep 2012
+1113,No Trend,20 Sep 2012,21 Sep 2012
+1114,Bullish,21 Sep 2012,26 Sep 2012
+1115,Bearish,26 Sep 2012,03 Oct 2012
+1116,Bullish,03 Oct 2012,10 Oct 2012
+1117,Bearish,10 Oct 2012,17 Oct 2012
+1118,Bullish,17 Oct 2012,19 Oct 2012
+1119,Bearish,19 Oct 2012,23 Nov 2012
+1120,Bullish,23 Nov 2012,06 Dec 2012
+1121,No Trend,06 Dec 2012,10 Dec 2012
+1122,Bullish,10 Dec 2012,27 Dec 2012
+1123,Bearish,27 Dec 2012,02 Jan 2013
+1124,Bullish,02 Jan 2013,18 Jan 2013
+1125,No Trend,18 Jan 2013,23 Jan 2013
+1126,Bullish,23 Jan 2013,24 Jan 2013
+1127,No Trend,24 Jan 2013,31 Jan 2013
+1128,Bullish,31 Jan 2013,21 Feb 2013
+1129,Bearish,21 Feb 2013,01 Mar 2013
+1130,Bullish,01 Mar 2013,15 Mar 2013
+1131,No Trend,15 Mar 2013,19 Mar 2013
+1132,Bullish,19 Mar 2013,05 Apr 2013
+1133,Bearish,05 Apr 2013,08 Apr 2013
+1134,Bullish,08 Apr 2013,17 Apr 2013
+1135,Bearish,17 Apr 2013,23 Apr 2013
+1136,Bullish,23 Apr 2013,08 May 2013
+1137,No Trend,08 May 2013,09 May 2013
+1138,Bullish,09 May 2013,14 May 2013
+1139,No Trend,14 May 2013,16 May 2013
+1140,Bullish,16 May 2013,21 May 2013
+1141,No Trend,21 May 2013,22 May 2013
+1142,Bullish,22 May 2013,31 May 2013
+1143,Bearish,31 May 2013,18 Jun 2013
+1144,Bullish,18 Jun 2013,20 Jun 2013
+1145,Bearish,20 Jun 2013,03 Jul 2013
+1146,Bullish,03 Jul 2013,11 Jul 2013
+1147,No Trend,11 Jul 2013,29 Jul 2013
+1148,Bullish,29 Jul 2013,12 Aug 2013
+1149,Bearish,12 Aug 2013,21 Aug 2013
+1150,No Trend,21 Aug 2013,22 Aug 2013
+1151,Bearish,22 Aug 2013,06 Sep 2013
+1152,Bullish,06 Sep 2013,17 Sep 2013
+1153,No Trend,17 Sep 2013,23 Sep 2013
+1154,Bullish,23 Sep 2013,30 Sep 2013
+1155,Bearish,30 Sep 2013,11 Oct 2013
+1156,Bullish,11 Oct 2013,28 Oct 2013
+1157,No Trend,28 Oct 2013,30 Oct 2013
+1158,Bullish,30 Oct 2013,05 Dec 2013
+1159,Bearish,05 Dec 2013,06 Dec 2013
+1160,Bullish,06 Dec 2013,11 Dec 2013
+1161,Bearish,11 Dec 2013,18 Dec 2013
+1162,Bullish,18 Dec 2013,23 Jan 2014
+1163,Bearish,23 Jan 2014,11 Feb 2014
+1164,Bullish,11 Feb 2014,24 Feb 2014
+1165,No Trend,24 Feb 2014,03 Mar 2014
+1166,Bullish,03 Mar 2014,14 Mar 2014
+1167,Bearish,14 Mar 2014,18 Mar 2014
+1168,Bullish,18 Mar 2014,26 Mar 2014
+1169,Bearish,26 Mar 2014,31 Mar 2014
+1170,Bullish,31 Mar 2014,07 Apr 2014
+1171,Bearish,07 Apr 2014,17 Apr 2014
+1172,Bullish,17 Apr 2014,20 May 2014
+1173,Bearish,20 May 2014,21 May 2014
+1174,Bullish,21 May 2014,05 Jun 2014
+1175,No Trend,05 Jun 2014,12 Jun 2014
+1176,Bullish,12 Jun 2014,03 Jul 2014
+1177,No Trend,03 Jul 2014,07 Jul 2014
+1178,Bullish,07 Jul 2014,17 Jul 2014
+1179,Bearish,17 Jul 2014,18 Jul 2014
+1180,Bullish,18 Jul 2014,30 Jul 2014
+1181,Bearish,30 Jul 2014,14 Aug 2014
+1182,Bullish,14 Aug 2014,25 Aug 2014
+1183,No Trend,25 Aug 2014,08 Sep 2014
+1184,Bullish,08 Sep 2014,12 Sep 2014
+1185,Bearish,12 Sep 2014,17 Sep 2014
+1186,Bullish,17 Sep 2014,23 Sep 2014
+1187,Bearish,23 Sep 2014,22 Oct 2014
+1188,Bullish,22 Oct 2014,31 Oct 2014
+1189,No Trend,31 Oct 2014,28 Nov 2014
+1190,Bullish,28 Nov 2014,10 Dec 2014
+1191,Bearish,10 Dec 2014,19 Dec 2014
+1192,Bullish,19 Dec 2014,05 Jan 2015
+1193,Bearish,05 Jan 2015,22 Jan 2015
+1194,Bullish,22 Jan 2015,28 Jan 2015
+1195,Bearish,28 Jan 2015,03 Feb 2015
+1196,Bullish,03 Feb 2015,20 Feb 2015
+1197,No Trend,20 Feb 2015,24 Feb 2015
+1198,Bullish,24 Feb 2015,25 Feb 2015
+1199,No Trend,25 Feb 2015,26 Feb 2015
+1200,Bullish,26 Feb 2015,02 Mar 2015
+1201,No Trend,02 Mar 2015,03 Mar 2015
+1202,Bullish,03 Mar 2015,06 Mar 2015
+1203,Bearish,06 Mar 2015,18 Mar 2015
+1204,Bullish,18 Mar 2015,25 Mar 2015
+1205,Bearish,25 Mar 2015,08 Apr 2015
+1206,Bullish,08 Apr 2015,30 Apr 2015
+1207,Bearish,30 Apr 2015,01 May 2015
+1208,Bullish,01 May 2015,05 May 2015
+1209,Bearish,05 May 2015,08 May 2015
+1210,Bullish,08 May 2015,13 May 2015
+1211,Bearish,13 May 2015,14 May 2015
+1212,Bullish,14 May 2015,29 May 2015
+1213,Bearish,29 May 2015,18 Jun 2015
+1214,Bullish,18 Jun 2015,26 Jun 2015
+1215,Bearish,26 Jun 2015,13 Jul 2015
+1216,Bullish,13 Jul 2015,24 Jul 2015
+1217,Bearish,24 Jul 2015,30 Jul 2015
+1218,Bullish,30 Jul 2015,04 Aug 2015
+1219,Bearish,04 Aug 2015,17 Aug 2015
+1220,Bullish,17 Aug 2015,19 Aug 2015
+1221,Bearish,19 Aug 2015,24 Aug 2015
+1222,No Trend,24 Aug 2015,26 Aug 2015
+1223,Bearish,26 Aug 2015,15 Sep 2015
+1224,Bullish,15 Sep 2015,22 Sep 2015
+1225,Bearish,22 Sep 2015,05 Oct 2015
+1226,Bullish,05 Oct 2015,16 Oct 2015
+1227,No Trend,16 Oct 2015,21 Oct 2015
+1228,Bullish,21 Oct 2015,03 Nov 2015
+1229,No Trend,03 Nov 2015,04 Nov 2015
+1230,Bullish,04 Nov 2015,12 Nov 2015
+1231,Bearish,12 Nov 2015,19 Nov 2015
+1232,Bullish,19 Nov 2015,03 Dec 2015
+1233,Bearish,03 Dec 2015,24 Dec 2015
+1234,Bullish,24 Dec 2015,04 Jan 2016
+1235,Bearish,04 Jan 2016,20 Jan 2016
+1236,No Trend,20 Jan 2016,22 Jan 2016
+1237,Bearish,22 Jan 2016,29 Jan 2016
+1238,Bullish,29 Jan 2016,05 Feb 2016
+1239,Bearish,05 Feb 2016,17 Feb 2016
+1240,Bullish,17 Feb 2016,03 Mar 2016
+1241,No Trend,03 Mar 2016,04 Mar 2016
+1242,Bullish,04 Mar 2016,18 Mar 2016
+1243,No Trend,18 Mar 2016,21 Mar 2016
+1244,Bullish,21 Mar 2016,29 Mar 2016
+1245,No Trend,29 Mar 2016,31 Mar 2016
+1246,Bullish,31 Mar 2016,11 Apr 2016
+1247,Bearish,11 Apr 2016,12 Apr 2016
+1248,Bullish,12 Apr 2016,29 Apr 2016
+1249,Bearish,29 Apr 2016,24 May 2016
+1250,Bullish,24 May 2016,07 Jun 2016
+1251,No Trend,07 Jun 2016,10 Jun 2016
+1252,Bullish,10 Jun 2016,13 Jun 2016
+1253,Bearish,13 Jun 2016,23 Jun 2016
+1254,Bullish,23 Jun 2016,24 Jun 2016
+1255,Bearish,24 Jun 2016,01 Jul 2016
+1256,Bullish,01 Jul 2016,18 Jul 2016
+1257,No Trend,18 Jul 2016,21 Jul 2016
+1258,Bullish,21 Jul 2016,25 Jul 2016
+1259,No Trend,25 Jul 2016,28 Jul 2016
+1260,Bullish,28 Jul 2016,25 Aug 2016
+1261,Bearish,25 Aug 2016,06 Sep 2016
+1262,Bullish,06 Sep 2016,09 Sep 2016
+1263,Bearish,09 Sep 2016,22 Sep 2016
+1264,Bullish,22 Sep 2016,04 Oct 2016
+1265,Bearish,04 Oct 2016,05 Oct 2016
+1266,Bullish,05 Oct 2016,07 Oct 2016
+1267,Bearish,07 Oct 2016,10 Oct 2016
+1268,Bullish,10 Oct 2016,11 Oct 2016
+1269,Bearish,11 Oct 2016,24 Oct 2016
+1270,Bullish,24 Oct 2016,26 Oct 2016
+1271,Bearish,26 Oct 2016,09 Nov 2016
+1272,Bullish,09 Nov 2016,22 Nov 2016
+1273,No Trend,22 Nov 2016,28 Nov 2016
+1274,Bullish,28 Nov 2016,09 Dec 2016
+1275,No Trend,09 Dec 2016,12 Dec 2016
+1276,Bullish,12 Dec 2016,30 Dec 2016
+1277,Bearish,30 Dec 2016,04 Jan 2017
+1278,Bullish,04 Jan 2017,23 Jan 2017
+1279,Bearish,23 Jan 2017,24 Jan 2017
+1280,Bullish,24 Jan 2017,17 Feb 2017
+1281,No Trend,17 Feb 2017,02 Mar 2017
+1282,Bullish,02 Mar 2017,21 Mar 2017
+1283,Bearish,21 Mar 2017,30 Mar 2017
+1284,Bullish,30 Mar 2017,05 Apr 2017
+1285,Bearish,05 Apr 2017,24 Apr 2017
+1286,Bullish,24 Apr 2017,09 May 2017
+1287,No Trend,09 May 2017,10 May 2017
+1288,Bullish,10 May 2017,17 May 2017
+1289,Bearish,17 May 2017,23 May 2017
+1290,Bullish,23 May 2017,07 Jun 2017
+1291,No Trend,07 Jun 2017,12 Jun 2017
+1292,Bullish,12 Jun 2017,27 Jun 2017
+1293,Bearish,27 Jun 2017,12 Jul 2017
+1294,Bullish,12 Jul 2017,26 Jul 2017
+1295,No Trend,26 Jul 2017,01 Aug 2017
+1296,Bullish,01 Aug 2017,10 Aug 2017
+1297,Bearish,10 Aug 2017,30 Aug 2017
+1298,Bullish,30 Aug 2017,28 Sep 2017
+1299,No Trend,28 Sep 2017,29 Sep 2017
+1300,Bullish,29 Sep 2017,04 Oct 2017
+1301,No Trend,04 Oct 2017,06 Oct 2017
+1302,Bullish,06 Oct 2017,11 Oct 2017
+1303,No Trend,11 Oct 2017,12 Oct 2017
+1304,Bullish,12 Oct 2017,13 Oct 2017
+1305,No Trend,13 Oct 2017,23 Oct 2017
+1306,Bullish,23 Oct 2017,15 Nov 2017
+1307,Bearish,15 Nov 2017,21 Nov 2017
+1308,Bullish,21 Nov 2017,08 Dec 2017
+1309,No Trend,08 Dec 2017,12 Dec 2017
+1310,Bullish,12 Dec 2017,13 Dec 2017
+1311,No Trend,13 Dec 2017,14 Dec 2017
+1312,Bullish,14 Dec 2017,05 Jan 2018
+1313,No Trend,05 Jan 2018,08 Jan 2018
+1314,Bullish,08 Jan 2018,11 Jan 2018
+1315,No Trend,11 Jan 2018,29 Jan 2018
+1316,Bullish,29 Jan 2018,02 Feb 2018
+1317,Bearish,02 Feb 2018,16 Feb 2018
+1318,Bullish,16 Feb 2018,01 Mar 2018
+1319,Bearish,01 Mar 2018,06 Mar 2018
+1320,Bullish,06 Mar 2018,19 Mar 2018
+1321,Bearish,19 Mar 2018,12 Apr 2018
+1322,Bullish,12 Apr 2018,24 Apr 2018
+1323,Bearish,24 Apr 2018,07 May 2018
+1324,Bullish,07 May 2018,29 May 2018
+1325,Bearish,29 May 2018,30 May 2018
+1326,Bullish,30 May 2018,31 May 2018
+1327,Bearish,31 May 2018,01 Jun 2018
+1328,Bullish,01 Jun 2018,21 Jun 2018
+1329,Bearish,21 Jun 2018,06 Jul 2018
+1330,Bullish,06 Jul 2018,18 Jul 2018
+1331,No Trend,18 Jul 2018,19 Jul 2018
+1332,Bullish,19 Jul 2018,15 Aug 2018
+1333,Bearish,15 Aug 2018,16 Aug 2018
+1334,Bullish,16 Aug 2018,10 Sep 2018
+1335,Bearish,10 Sep 2018,11 Sep 2018
+1336,Bullish,11 Sep 2018,05 Oct 2018
+1337,Bearish,05 Oct 2018,10 Oct 2018
+1338,No Trend,10 Oct 2018,12 Oct 2018
+1339,Bearish,12 Oct 2018,05 Nov 2018
+1340,Bullish,05 Nov 2018,13 Nov 2018
+1341,Bearish,13 Nov 2018,29 Nov 2018
+1342,Bullish,29 Nov 2018,07 Dec 2018
+1343,Bearish,07 Dec 2018,19 Dec 2018
+1344,No Trend,19 Dec 2018,26 Dec 2018
+1345,Bearish,26 Dec 2018,07 Jan 2019
+1346,Bullish,07 Jan 2019,15 Jan 2019
+1347,No Trend,15 Jan 2019,16 Jan 2019
+1348,Bullish,16 Jan 2019,24 Jan 2019
+1349,No Trend,24 Jan 2019,25 Jan 2019
+1350,Bullish,25 Jan 2019,15 Feb 2019
+1351,No Trend,15 Feb 2019,20 Feb 2019
+1352,Bullish,20 Feb 2019,01 Mar 2019
+1353,No Trend,01 Mar 2019,04 Mar 2019
+1354,Bullish,04 Mar 2019,07 Mar 2019
+1355,Bearish,07 Mar 2019,12 Mar 2019
+1356,Bullish,12 Mar 2019,12 Apr 2019
+1357,No Trend,12 Apr 2019,15 Apr 2019
+1358,Bullish,15 Apr 2019,16 Apr 2019
+1359,No Trend,16 Apr 2019,18 Apr 2019
+1360,Bullish,18 Apr 2019,30 Apr 2019
+1361,No Trend,30 Apr 2019,01 May 2019
+1362,Bullish,01 May 2019,07 May 2019
+1363,Bearish,07 May 2019,06 Jun 2019
+1364,Bullish,06 Jun 2019,20 Jun 2019
+1365,No Trend,20 Jun 2019,25 Jun 2019
+1366,Bullish,25 Jun 2019,01 Aug 2019
+1367,Bearish,01 Aug 2019,21 Aug 2019
+1368,Bullish,21 Aug 2019,23 Aug 2019
+1369,Bearish,23 Aug 2019,29 Aug 2019
+1370,Bullish,29 Aug 2019,13 Sep 2019
+1371,No Trend,13 Sep 2019,16 Sep 2019
+1372,Bullish,16 Sep 2019,17 Sep 2019
+1373,No Trend,17 Sep 2019,19 Sep 2019
+1374,Bullish,19 Sep 2019,23 Sep 2019
+1375,No Trend,23 Sep 2019,24 Sep 2019
+1376,Bullish,24 Sep 2019,25 Sep 2019
+1377,Bearish,25 Sep 2019,11 Oct 2019
+1378,Bullish,11 Oct 2019,28 Oct 2019
+1379,No Trend,28 Oct 2019,31 Oct 2019
+1380,Bullish,31 Oct 2019,07 Nov 2019
+1381,No Trend,07 Nov 2019,21 Nov 2019
+1382,Bullish,21 Nov 2019,03 Dec 2019
+1383,Bearish,03 Dec 2019,06 Dec 2019
+1384,Bullish,06 Dec 2019,20 Dec 2019
+1385,No Trend,20 Dec 2019,03 Jan 2020
+1386,Bullish,03 Jan 2020,27 Jan 2020
+1387,Bearish,27 Jan 2020,05 Feb 2020
+1388,Bullish,05 Feb 2020,24 Feb 2020
+1389,Bearish,24 Feb 2020,27 Feb 2020
+1390,No Trend,27 Feb 2020,02 Mar 2020
+1391,Bearish,02 Mar 2020,30 Mar 2020
+1392,Bullish,30 Mar 2020,01 Apr 2020
+1393,Bearish,01 Apr 2020,06 Apr 2020
+1394,Bullish,06 Apr 2020,13 May 2020
+1395,Bearish,13 May 2020,18 May 2020
+1396,Bullish,18 May 2020,03 Jun 2020
+1397,No Trend,03 Jun 2020,10 Jun 2020
+1398,Bullish,10 Jun 2020,12 Jun 2020
+1399,Bearish,12 Jun 2020,16 Jun 2020
+1400,Bullish,16 Jun 2020,24 Jun 2020
+1401,Bearish,24 Jun 2020,01 Jul 2020
+1402,Bullish,01 Jul 2020,17 Aug 2020
+1403,No Trend,17 Aug 2020,18 Aug 2020
+1404,Bullish,18 Aug 2020,31 Aug 2020
+1405,No Trend,31 Aug 2020,03 Sep 2020
+1406,Bullish,03 Sep 2020,08 Sep 2020
+1407,Bearish,08 Sep 2020,30 Sep 2020
+1408,Bullish,30 Sep 2020,26 Oct 2020
+1409,Bearish,26 Oct 2020,30 Oct 2020
+1410,No Trend,30 Oct 2020,02 Nov 2020
+1411,Bearish,02 Nov 2020,05 Nov 2020
+1412,Bullish,05 Nov 2020,17 Nov 2020
+1413,No Trend,17 Nov 2020,18 Nov 2020
+1414,Bullish,18 Nov 2020,19 Nov 2020
+1415,No Trend,19 Nov 2020,20 Nov 2020
+1416,Bullish,20 Nov 2020,28 Jan 2021
+1417,Bearish,28 Jan 2021,03 Feb 2021
+1418,Bullish,03 Feb 2021,19 Feb 2021
+1419,No Trend,19 Feb 2021,22 Feb 2021
+1420,Bullish,22 Feb 2021,23 Feb 2021
+1421,Bearish,23 Feb 2021,24 Feb 2021
+1422,Bullish,24 Feb 2021,25 Feb 2021
+1423,Bearish,25 Feb 2021,10 Mar 2021
+1424,Bullish,10 Mar 2021,24 Mar 2021
+1425,Bearish,24 Mar 2021,26 Mar 2021
+1426,Bullish,26 Mar 2021,09 Apr 2021
+1427,No Trend,09 Apr 2021,12 Apr 2021
+1428,Bullish,12 Apr 2021,13 Apr 2021
+1429,No Trend,13 Apr 2021,20 Apr 2021
+1430,Bullish,20 Apr 2021,12 May 2021
+1431,Bearish,12 May 2021,24 May 2021
+1432,Bullish,24 May 2021,18 Jun 2021
+1433,Bearish,18 Jun 2021,22 Jun 2021
+1434,Bullish,22 Jun 2021,09 Jul 2021
+1435,No Trend,09 Jul 2021,13 Jul 2021
+1436,Bullish,13 Jul 2021,19 Jul 2021
+1437,Bearish,19 Jul 2021,21 Jul 2021
+1438,Bullish,21 Jul 2021,19 Aug 2021
+1439,Bearish,19 Aug 2021,23 Aug 2021
+1440,Bullish,23 Aug 2021,10 Sep 2021
+1441,Bearish,10 Sep 2021,14 Oct 2021
+1442,Bullish,14 Oct 2021,22 Oct 2021
+1443,No Trend,22 Oct 2021,27 Oct 2021
+1444,Bullish,27 Oct 2021,29 Oct 2021
+1445,No Trend,29 Oct 2021,10 Nov 2021
+1446,Bullish,10 Nov 2021,26 Nov 2021
+1447,Bearish,26 Nov 2021,08 Dec 2021
+1448,Bullish,08 Dec 2021,20 Dec 2021
+1449,Bearish,20 Dec 2021,22 Dec 2021
+1450,Bullish,22 Dec 2021,06 Jan 2022
+1451,Bearish,06 Jan 2022,20 Jan 2022
+1452,No Trend,20 Jan 2022,28 Jan 2022
+1453,Bearish,28 Jan 2022,02 Feb 2022
+1454,Bullish,02 Feb 2022,11 Feb 2022
+1455,Bearish,11 Feb 2022,16 Mar 2022
+1456,Bullish,16 Mar 2022,07 Apr 2022
+1457,Bearish,07 Apr 2022,27 May 2022
+1458,Bullish,27 May 2022,10 Jun 2022
+1459,Bearish,10 Jun 2022,27 Jun 2022
+1460,Bullish,27 Jun 2022,28 Jun 2022
+1461,Bearish,28 Jun 2022,06 Jul 2022
+1462,Bullish,06 Jul 2022,13 Jul 2022
+1463,Bearish,13 Jul 2022,19 Jul 2022
+1464,Bullish,19 Jul 2022,15 Aug 2022
+1465,No Trend,15 Aug 2022,17 Aug 2022
+1466,Bullish,17 Aug 2022,23 Aug 2022
+1467,Bearish,23 Aug 2022,02 Sep 2022
+1468,No Trend,02 Sep 2022,07 Sep 2022
+1469,Bearish,07 Sep 2022,12 Sep 2022
+1470,Bullish,12 Sep 2022,13 Sep 2022
+1471,Bearish,13 Sep 2022,30 Sep 2022
+1472,No Trend,30 Sep 2022,03 Oct 2022
+1473,Bearish,03 Oct 2022,18 Oct 2022
+1474,Bullish,18 Oct 2022,03 Nov 2022
+1475,Bearish,03 Nov 2022,07 Nov 2022
+1476,Bullish,07 Nov 2022,09 Nov 2022
+1477,Bearish,09 Nov 2022,10 Nov 2022
+1478,Bullish,10 Nov 2022,07 Dec 2022
+1479,Bearish,07 Dec 2022,13 Dec 2022
+1480,Bullish,13 Dec 2022,15 Dec 2022
+1481,Bearish,15 Dec 2022,06 Jan 2023
+1482,Bullish,06 Jan 2023,17 Feb 2023
+1483,Bearish,17 Feb 2023,21 Mar 2023
+1484,Bullish,21 Mar 2023,13 Apr 2023
+1485,No Trend,13 Apr 2023,14 Apr 2023
+1486,Bullish,14 Apr 2023,18 Apr 2023
+1487,No Trend,18 Apr 2023,19 Apr 2023
+1488,Bullish,19 Apr 2023,25 Apr 2023
+1489,Bearish,25 Apr 2023,28 Apr 2023
+1490,Bullish,28 Apr 2023,03 May 2023
+1491,Bearish,03 May 2023,08 May 2023
+1492,Bullish,08 May 2023,16 May 2023
+1493,Bearish,16 May 2023,17 May 2023
+1494,Bullish,17 May 2023,14 Jun 2023
+1495,No Trend,14 Jun 2023,20 Jun 2023
+1496,Bullish,20 Jun 2023,17 Jul 2023
+1497,No Trend,17 Jul 2023,18 Jul 2023
+1498,Bullish,18 Jul 2023,19 Jul 2023
+1499,No Trend,19 Jul 2023,20 Jul 2023
+1500,Bullish,20 Jul 2023,26 Jul 2023
+1501,No Trend,26 Jul 2023,27 Jul 2023
+1502,Bullish,27 Jul 2023,03 Aug 2023
+1503,Bearish,03 Aug 2023,18 Aug 2023
+1504,No Trend,18 Aug 2023,21 Aug 2023
+1505,Bearish,21 Aug 2023,29 Aug 2023
+1506,Bullish,29 Aug 2023,18 Sep 2023
+1507,Bearish,18 Sep 2023,10 Oct 2023
+1508,Bullish,10 Oct 2023,19 Oct 2023
+1509,Bearish,19 Oct 2023,02 Nov 2023
+1510,Bullish,02 Nov 2023,15 Nov 2023
+1511,No Trend,15 Nov 2023,29 Nov 2023
+1512,Bullish,29 Nov 2023,30 Nov 2023
+1513,No Trend,30 Nov 2023,05 Dec 2023
+1514,Bullish,05 Dec 2023,15 Dec 2023
+1515,No Trend,15 Dec 2023,20 Dec 2023
+1516,Bullish,20 Dec 2023,27 Dec 2023
+1517,No Trend,27 Dec 2023,28 Dec 2023
+1518,Bullish,28 Dec 2023,04 Jan 2024
+1519,Bearish,04 Jan 2024,08 Jan 2024
+1520,Bullish,08 Jan 2024,25 Jan 2024
+1521,No Trend,25 Jan 2024,29 Jan 2024
+1522,Bullish,29 Jan 2024,30 Jan 2024
+1523,No Trend,30 Jan 2024,31 Jan 2024
+1524,Bullish,31 Jan 2024,04 Apr 2024
+1525,Bearish,04 Apr 2024,29 Apr 2024
+1526,Bullish,29 Apr 2024,30 Apr 2024
+1527,Bearish,30 Apr 2024,03 May 2024
+1528,Bullish,03 May 2024,20 May 2024
+1529,No Trend,20 May 2024,23 May 2024
+1530,Bullish,23 May 2024,30 May 2024
+1531,Bearish,30 May 2024,31 May 2024
+1532,Bullish,31 May 2024,18 Jun 2024
+1533,No Trend,18 Jun 2024,26 Jun 2024
+1534,Bullish,26 Jun 2024,19 Jul 2024
+1535,Bearish,19 Jul 2024,14 Aug 2024
+1536,Bullish,14 Aug 2024,23 Aug 2024
+1537,No Trend,23 Aug 2024,28 Aug 2024
+1538,Bullish,28 Aug 2024,04 Sep 2024

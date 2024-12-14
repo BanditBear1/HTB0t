@@ -1,0 +1,20 @@
+#!/bin/bash
+
+set -o errexit
+set -o nounset
+
+
+# Define a log directory
+LOGDIR="logs"
+
+# Create the log directory if it doesn't exist
+mkdir -p "$LOGDIR"
+
+# Get the current timestamp
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+
+# Define the log file with the timestamp
+LOGFILE="$LOGDIR/worker_log_$TIMESTAMP.log"
+
+
+celery -A celery_app.celery_app worker --loglevel=warning &> "$LOGFILE"

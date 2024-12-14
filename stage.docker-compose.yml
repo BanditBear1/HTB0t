@@ -1,0 +1,70 @@
+name: quantic
+services:
+  algo:
+    restart: always
+    build:
+      context: ./
+      dockerfile: ./compose/local/Dockerfile
+    image: algo
+    command: /start
+    volumes:
+      - ./:/app
+    env_file:
+      - .env/.stage-sample
+    ports:
+      - 8000:8000
+    depends_on:
+      - redis
+
+  algo_worker:
+    restart: always
+    image: algo
+    command: /start-celeryworker 10 default
+    volumes:
+      - ./:/app
+    env_file:
+      - .env/.stage-sample
+    depends_on:
+      - redis
+
+  algo_beat:
+    restart: always
+    image: algo
+    command: /start-celerybeat
+    volumes:
+      - ./:/app
+    env_file:
+      - .env/.stage-sample
+    depends_on:
+      - redis
+
+  algo_flower:
+    restart: always
+    image: algo
+    command: /start-flower
+    volumes:
+      - ./:/app
+    env_file:
+      - .env/.stage-sample
+    ports:
+      - 5557:5555
+    depends_on:
+      - redis
+
+  redis:
+    restart: always
+    image: redis:7-alpine
+    volumes:
+      - redis-data:/data
+
+  react:
+    restart: always
+    build:
+      context: ./frontend
+      dockerfile: ./compose/local/react/Dockerfile
+    image: algo-frontend
+    ports:
+      - 80:80
+
+volumes:
+  redis-data:
